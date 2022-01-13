@@ -1,0 +1,78 @@
+C:\Users\Admin\source\repos\Programma\Programma\bin\Debug\Programma.exe.config
+C:\Users\Admin\source\repos\Programma\Programma\bin\Debug\Programma.exe
+C:\Users\Admin\source\repos\Programma\Programma\bin\Debug\Programma.pdb
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.Form1.resources
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.Properties.Resources.resources
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.exe
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.pdb
+C:\Users\Admin\source\repos\Programma\Programma\bin\Debug\OpenPop.dll
+C:\Users\Admin\source\repos\Programma\Programma\obj\Debug\Programma.csproj.CopyComplete
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\Programma.exe.config
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\Programma.exe
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\Programma.pdb
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\OpenPop.dll
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.csprojAssemblyReference.cache
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.Form1.resources
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.Properties.Resources.resources
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.csproj.GenerateResource.cache
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.csproj.CoreCompileInputs.cache
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.csproj.CopyComplete
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.exe
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\obj\Debug\Programma.pdb
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\BouncyCastle.Crypto.dll
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\MailKit.dll
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\MimeKit.dll
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\System.Buffers.dll
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\BouncyCastle.Crypto.xml
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\MailKit.pdb
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\MailKit.xml
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\MimeKit.pdb
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\MimeKit.xml
+D:\Универ\Курсачи\7 семестр\Петренко\Programma\Programma\bin\Debug\System.Buffers.xml
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\Programma.exe.config
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\Programma.exe
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\Programma.pdb
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\BouncyCastle.Crypto.dll
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\MailKit.dll
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\MimeKit.dll
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\OpenPop.dll
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\System.Buffers.dll
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\BouncyCastle.Crypto.xml
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\MailKit.pdb
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\MailKit.xml
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\MimeKit.pdb
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\MimeKit.xml
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\bin\Debug\System.Buffers.xml
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.csprojAssemblyReference.cache
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.Form1.resources
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.Properties.Resources.resources
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.csproj.GenerateResource.cache
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.csproj.CoreCompileInputs.cache
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.csproj.CopyComplete
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.exe
+D:\Универ\Курсачи\7 семестр\Каплюхин\Programma\Programma\obj\Debug\Programma.pdb
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\Programma.exe.config
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\Programma.exe
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\Programma.pdb
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\BouncyCastle.Crypto.dll
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\MailKit.dll
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\MimeKit.dll
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\OpenPop.dll
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\System.Buffers.dll
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\BouncyCastle.Crypto.xml
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\MailKit.pdb
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\MailKit.xml
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\MimeKit.pdb
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\MimeKit.xml
+D:\Загрузки\Programm1a\Programma\Programma\bin\Debug\System.Buffers.xml
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.csprojAssemblyReference.cache
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.Form1.resources
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.Properties.Resources.resources
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.csproj.GenerateResource.cache
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.csproj.CoreCompileInputs.cache
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.csproj.CopyComplete
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.exe
+D:\Загрузки\Programm1a\Programma\Programma\obj\Debug\Programma.pdb
